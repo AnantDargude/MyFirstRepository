@@ -1,2 +1,0 @@
-this is method of branch new branch
-we can add branches to our git
