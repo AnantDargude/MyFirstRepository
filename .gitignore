@@ -1,0 +1,4 @@
+#Write Files to be ignored to track by git#
+*.py
+*.c
+filename.c
